@@ -18,30 +18,30 @@ O sistema de ponto eletrônico da Conselt será desenvolvido levando em consider
 
 ## Fotos do Projeto 
 
-##Login
+## Login
 
 ![Login](https://github.com/Brunomtk/Pontoeletronico-Conselt/assets/88750125/d7d5177c-fc3a-4cf9-a850-28e98308607a)
 
 
-##Cadastrar 
+## Cadastrar 
 
 ![image](https://github.com/Brunomtk/Pontoeletronico-Conselt/assets/88750125/f1578b96-dd46-453d-9f1c-190c47714305)
 
 
-##Home
+## Home
 
 ![image](https://github.com/Brunomtk/Pontoeletronico-Conselt/assets/88750125/1065881d-dfe5-40fc-a73e-7cb3fea6bac8)
 
-##Contabilização
+## Contabilização
 
 ![image](https://github.com/Brunomtk/Pontoeletronico-Conselt/assets/88750125/8ded9390-1834-492d-b27f-3760137adada)
 
-##Controle de Membros
+## Controle de Membros
 
 ![image](https://github.com/Brunomtk/Pontoeletronico-Conselt/assets/88750125/799f7953-0784-47c5-ac06-6c6c18a97a7f)
 
 
-##Controle de usuarios
+## Controle de usuarios
 
 ![image](https://github.com/Brunomtk/Pontoeletronico-Conselt/assets/88750125/d2a9adf9-3cb5-43f5-884e-66c50c9bd479)
 
