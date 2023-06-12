@@ -18,6 +18,9 @@ O sistema de ponto eletrônico da Conselt será desenvolvido levando em consider
 
 ## Fotos do Projeto 
 
-<img src="https://drive.google.com/file/d/1dBws9V23Is4-w3I6fY7qbzIQjNZrsMFt/view?usp=sharing" width="500">
+![Login](https://github.com/Brunomtk/Pontoeletronico-Conselt/assets/88750125/d7d5177c-fc3a-4cf9-a850-28e98308607a)
+
+
+
 
 
