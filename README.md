@@ -7,3 +7,18 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+## Sobre o Projeto
+
+Resumo:
+Este projeto tem como objetivo o desenvolvimento de um sistema de ponto eletrônico personalizado para a empresa Conselt. O sistema será projetado para simplificar e automatizar o registro de presença e controle de horários dos funcionários, garantindo uma gestão eficiente e precisa do tempo de trabalho.
+
+Descrição do Projeto:
+O sistema de ponto eletrônico da Conselt será desenvolvido levando em consideração as necessidades específicas da empresa, oferecendo uma solução completa e integrada. O projeto será dividido nas seguintes etapas:
+
+
+## Fotos do Projeto 
+
+<img src="![image](https://github.com/Brunomtk/Pontoeletronico-Conselt/assets/88750125/48f2dc1d-1b2d-45de-9d0a-eeb2b5bf5fa5)
+" width="1024">
+
+
